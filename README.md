@@ -1,6 +1,6 @@
 # Welcome to [kishor-N](https://github.com/kishor-N/) profile! <a href="https://github.com/kishor-N/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <"![image](https://github.com/user-attachments/assets/9dbcfd1b-48a7-47c2-a08d-763e1baa8090)
+###   <"![image](https://github.com/user-attachments/assets/9dbcfd1b-48a7-47c2-a08d-763e1baa8090)
 " height=15% width=40% align="right">
 
 * Future Data Scientist 
