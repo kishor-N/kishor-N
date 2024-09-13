@@ -1,4 +1,4 @@
- Welcome to [kishor-N](https://github.com/kishor-N/) profile! <a href="https://github.com/kishor-N/"> <img src= width="25px"></a>
+ Welcome to [kishor-N](https://github.com/kishor-N/)
 
 ###   ![image](https://github.com/user-attachments/assets/9dbcfd1b-48a7-47c2-a08d-763e1baa8090)
 
